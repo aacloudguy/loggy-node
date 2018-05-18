@@ -1,7 +1,6 @@
 ---
 
 applications:
-- name:      loggy-node
-  host:      loggy-node-pjm
+- name:      AA-MyApp-0001
   memory:    128M
   command:   node server

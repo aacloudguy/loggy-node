@@ -7,7 +7,7 @@
   "license":            "Apache-2.0",
   "repository": {
     "type":             "git",
-    "url" :             "https://github.com/IBM-Bluemix/loggy-node.git"
+    "url" :             "https://github.com/aacloudguy/loggy-node.git"
   },
 
   "main":               "server",
