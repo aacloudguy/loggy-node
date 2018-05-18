@@ -1,9 +1,9 @@
 {
-  "name":               "loggy-node",
+  "name":               "AA-MyApp-0001",
   "version":            "0.1.0",
   "description":        "sample node.js server that does a lot of logging",
   "author":             "pmuellr",
-  "homepage":           "https://github.com/IBM-Bluemix/loggy-node",
+  "homepage":           "https://github.com/aacloudguy/loggy-node",
   "license":            "Apache-2.0",
   "repository": {
     "type":             "git",
